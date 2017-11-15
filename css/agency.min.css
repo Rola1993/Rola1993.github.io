@@ -485,16 +485,16 @@ section#contact .section-heading {
 color: #e8e8e8
 }
 section#contact .form-group {
-margin-bottom: 25px
+margin-bottom: 20px
 }
 section#contact .form-group input,section#contact .form-group textarea {
-padding: 20px
+padding: 30px
 }
 section#contact .form-group input.form-control {
 height: auto
 }
 section#contact .form-group textarea.form-control {
-height: 236px
+height: 200px
 }
 section#contact .form-control:focus {
 border-color: #33353a;
@@ -528,17 +528,17 @@ section#contact .text-danger {
 color: #e74c3c
 }
 footer {
-padding: 25px 0;
+padding: 30px 0;
 text-align: center
 }
 footer span.copyright {
-line-height: 40px;
+line-height: 30px;
 text-transform: uppercase;
 text-transform: none
 }
 footer ul.quicklinks {
 margin-bottom: 0;
-line-height: 40px;
+line-height: 30px;
 text-transform: uppercase;
 text-transform: none
 }
